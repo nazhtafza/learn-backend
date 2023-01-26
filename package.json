@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "learn back end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazhtafza/learn-backend.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazhtafza/learn-backend/issues"
+  },
+  "homepage": "https://github.com/nazhtafza/learn-backend#readme"
+}
