@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nazhtafza/learn-backend#readme",
   "dependencies": {
+    "event": "^1.0.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.4"
   }
