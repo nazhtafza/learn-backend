@@ -21,7 +21,9 @@
   "homepage": "https://github.com/nazhtafza/learn-backend#readme",
   "dependencies": {
     "event": "^1.0.0",
+    "fs": "^0.0.1-security",
     "lodash": "^4.17.21",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "path": "^0.12.7"
   }
 }
